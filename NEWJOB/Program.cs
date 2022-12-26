@@ -1,4 +1,4 @@
-namespace WinFormsApp1
+namespace NEW_JOB
 {
     internal static class Program
     {
